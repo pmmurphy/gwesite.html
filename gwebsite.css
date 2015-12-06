@@ -26,3 +26,13 @@ nav ul a:hover{
 	text-align: center;
 	margin-top: 40px;
 }
+
+h4{
+	color: orange;
+	text-align: center;
+}
+
+p{
+	width: 52%;
+	margin: 0 auto;
+}
